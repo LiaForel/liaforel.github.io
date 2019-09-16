@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lia Forel, student, fianlly launches the first site"
+title: "Lia Forel, student, finally launches the first site"
 date: 2019-09-16
 ---
 It is time and long overdue.
